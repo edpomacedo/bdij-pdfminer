@@ -1,5 +1,7 @@
 # bdij-pdfminer
 
+![doi:10.5281/zenodo.10397993](https://zenodo.org/badge/DOI/10.5281/zenodo.10397993.svg)
+
 Ferramenta para extração de texto de arquivos PDF.
 
 ## Estrutura
